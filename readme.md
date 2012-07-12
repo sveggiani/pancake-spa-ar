@@ -1,4 +1,4 @@
-# Localización al español (Argentina) de Localization #
+# Localización al español (Argentina) de Pancakeapp.com #
 
 ## Instalación ##
 
@@ -24,6 +24,6 @@ Por la longitud de algunas cadenas de texto hay zonas de la interface que se "ro
 
 Para ayuda o discusiones sobre algún térmno usemos: [la sección de Issues de GitHub](https://github.com/sveggiani/pancake-spa-ar/issues).
 
-## Licenscia ##
+## Licencia ##
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/) or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
