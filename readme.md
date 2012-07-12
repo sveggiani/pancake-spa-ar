@@ -1,4 +1,4 @@
-# Localización al español (Argentina) de Localization #
+# Localización al español (Argentina) de Pancakeapp.com #
 
 ## Instalación ##
 
